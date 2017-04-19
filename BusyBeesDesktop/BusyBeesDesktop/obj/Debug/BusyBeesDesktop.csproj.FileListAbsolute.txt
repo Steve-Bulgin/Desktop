@@ -1,0 +1,93 @@
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe.config
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csprojResolveAssemblyReference.cache
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.Properties.Resources.resources
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csproj.GenerateResource.Cache
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.pdb
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.dll
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.dll
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.xml
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.xml
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.exe
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.pdb
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMain.resources
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmHive.resources
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmYard.resources
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmQueen.resources
+c:\users\seejay\documents\visual studio 2015\Projects\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMedia.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe.config
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.exe
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.pdb
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csprojResolveAssemblyReference.cache
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmHive.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMain.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMedia.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmQueen.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmYard.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.Properties.Resources.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csproj.GenerateResource.Cache
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.pdb
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.dll
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.dll
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.xml
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.xml
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmPicture.resources
+C:\Users\jcioanca1632\Desktop\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\PortableDevices.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe.config
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.exe
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.pdb
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.pdb
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\PortableDevices.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.xml
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.xml
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csprojResolveAssemblyReference.cache
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmHive.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMain.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMedia.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmPicture.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmQueen.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmYard.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.Properties.Resources.resources
+E:\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csproj.GenerateResource.Cache
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe.config
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.exe
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.pdb
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.pdb
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.dll
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.dll
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\PortableDevices.dll
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.dll
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.EF6.dll
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.Linq.dll
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.xml
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\EntityFramework.SqlServer.xml
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\System.Data.SQLite.xml
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csprojResolveAssemblyReference.cache
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmHive.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMain.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmMedia.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmPicture.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmQueen.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.FrmYard.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.Properties.Resources.resources
+E:\BusyBees\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.csproj.GenerateResource.Cache
+C:\Users\sbulgin-cc\Desktop\BusyBees\BusyBeesDesktop\BusyBeesDesktop\bin\Debug\BusyBeesDesktop.exe.config
+C:\Users\sbulgin-cc\Desktop\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.exe
+C:\Users\sbulgin-cc\Desktop\BusyBees\BusyBeesDesktop\BusyBeesDesktop\obj\Debug\BusyBeesDesktop.pdb
