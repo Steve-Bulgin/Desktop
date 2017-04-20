@@ -48,6 +48,7 @@
             this.Controls.Add(this.lstHiveMedia);
             this.Name = "FrmMedia";
             this.Text = "FrmMedia";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMedia_FormClosing);
             this.Load += new System.EventHandler(this.FrmMedia_Load);
             this.ResumeLayout(false);
 

@@ -57,7 +57,10 @@ namespace BusyBeesDesktop
 
         private void lstHiveMedia_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+            pictureBoxList.Clear();
+
+            RemoveControls(this, typeof(PictureBox));
+
             hivefromlv = lstHiveMedia.GetItemText(lstHiveMedia.SelectedItem);
             hiveid = Regex.Match(hivefromlv, @"((?<=Hive )\d+)").ToString();
 
@@ -69,8 +72,10 @@ namespace BusyBeesDesktop
                 {
                     string[] images = Directory.GetFiles(@"G:\Visual Studio 2015\Projects\BeeApiaryData\Images\" + hiveid);
 
-                    int local = 5;
-                    int counter = 5;
+                    //Up-Down
+                    int local = 50;
+                    //Left Right?
+                    int counter = 140;
 
                     foreach (string image in images)
                     {
@@ -79,18 +84,18 @@ namespace BusyBeesDesktop
                         {
 
 
-                            counter++;
+                            
                             if ((counter * 100) > 1150)
                             {
-                                local = local + 100;
-                                counter = 0;
+                                local = local;
+                                counter = counter + 100;
                             }
 
                             PictureBox picture = new PictureBox
                             {
                                 Name = "pictureBox" + imgname,
                                 Size = new Size(100, 100),
-                                Location = new Point(counter * 100, local),
+                                Location = new Point(counter, local),
                                 BorderStyle = BorderStyle.FixedSingle,
                                 SizeMode = PictureBoxSizeMode.StretchImage
                             };
@@ -106,9 +111,6 @@ namespace BusyBeesDesktop
                             {
                                 this.Controls.Add(p);
                             }
-
-                            MessageBox.Show(imgname);
-                            Console.WriteLine(image);
                             //Console.WriteLine(System.Reflection.Assembly.GetEntryAssembly().Location);
 
                             
@@ -137,8 +139,42 @@ namespace BusyBeesDesktop
             frmMain.Show();
         }
 
+
+        private void RemoveControls(Control control, Type type)
+        {
+            List<Control> controls = new List<Control>();
+
+            Stack<Control> stack = new Stack<Control>();
+            stack.Push(control);
+
+            while (stack.Count > 0)
+            {
+                Control ctrl = stack.Pop();
+                foreach (Control child in ctrl.Controls)
+                {
+                    if (child.GetType() == type)
+                    {
+                        controls.Add(child);
+                    }
+                    else if (true == child.HasChildren)
+                    {
+                        stack.Push(child);
+                    }
+                }
+            }
+
+            foreach (Control ctrl in controls)
+            {
+                control.Controls.Remove(ctrl);
+                ctrl.Dispose();
+            }
+        }
     }
+
+
+    
 }
+
 
 
 
