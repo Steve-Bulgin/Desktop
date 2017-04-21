@@ -16,7 +16,7 @@ namespace BusyBeesDesktop
     {
         FrmMain frmMain;
 
-        SQLiteConnection conn = new SQLiteConnection("Data Source=" + Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\Data\apiary.db");
+        SQLiteConnection conn = new SQLiteConnection("Data Source=" + Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\apiary.db");
         public FrmHive(FrmMain frmMain)
         {
             InitializeComponent();

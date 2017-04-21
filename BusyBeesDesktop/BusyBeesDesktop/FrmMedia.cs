@@ -19,7 +19,7 @@ namespace BusyBeesDesktop
         List<PictureBox> pictureBoxList = new List<PictureBox>();
         string hivefromlv;
         string hiveid;
-        SQLiteConnection conn = new SQLiteConnection("Data Source=" + @"G:\Visual Studio 2015\Projects\BeeApiaryData\apiary.db");
+        SQLiteConnection conn = new SQLiteConnection("Data Source=" + Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\apiary.db");
 
         static int brh = 0;
         public FrmMedia(FrmMain frmMain)
@@ -64,13 +64,13 @@ namespace BusyBeesDesktop
             hivefromlv = lstHiveMedia.GetItemText(lstHiveMedia.SelectedItem);
             hiveid = Regex.Match(hivefromlv, @"((?<=Hive )\d+)").ToString();
 
-            string[] folders = Directory.GetDirectories(@"G:\Visual Studio 2015\Projects\BeeApiaryData\Images");
+            string[] folders = Directory.GetDirectories(Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\Images");
 
             foreach (string folder in folders)
             {
-                if (folder == @"G:\Visual Studio 2015\Projects\BeeApiaryData\Images\" + hiveid)
+                if (folder == Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\Images\" + hiveid)
                 {
-                    string[] images = Directory.GetFiles(@"G:\Visual Studio 2015\Projects\BeeApiaryData\Images\" + hiveid);
+                    string[] images = Directory.GetFiles(Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\Images\" + hiveid);
 
                     //Up-Down
                     int local = 50;
@@ -80,7 +80,7 @@ namespace BusyBeesDesktop
                     foreach (string image in images)
                     {
                         string imgname = Regex.Match(image, @"(\d+)[_](\d+)(?=.jpg)").ToString();
-                        if (image != @"G:\Visual Studio 2015\Projects\BeeApiaryData\Images\" + hiveid + @"\Thumbs.db")
+                        if (image != Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\Images\" + hiveid + @"\Thumbs.db")
                         {
 
 
@@ -100,7 +100,7 @@ namespace BusyBeesDesktop
                                 SizeMode = PictureBoxSizeMode.StretchImage
                             };
 
-                            picture.ImageLocation = (@"G:\Visual Studio 2015\Projects\BeeApiaryData\Images\" + hiveid + @"\") + imgname + ".jpg";
+                            picture.ImageLocation = (Path.GetPathRoot(System.Reflection.Assembly.GetEntryAssembly().Location) + @"BusyBees\BeeApiaryData\Images\" + hiveid + @"\") + imgname + ".jpg";
                             picture.Click += new EventHandler(pictureBox1_Click);
                             pictureBoxList.Add(picture);
 
